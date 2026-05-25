@@ -55,7 +55,3 @@ The Power BI dashboard provides:
 * NumPy
 * Scikit-learn
 * Power BI
-
-## Conclusion
-
-This project demonstrates the complete data analytics lifecycle, from raw data processing to actionable business insights using visualization and machine learning.
